@@ -3,6 +3,10 @@
 This project provides a look at getting started using Angular Http functionality and how it can be used
 to call a Node.js RESTful service.
 
+![List view](/images/customer_manager_list.png)
+
+![List view](/images/customer_manager_edit.png)
+
 ## Angular Concepts Covered
 
 * Using TypeScript classes and modules
